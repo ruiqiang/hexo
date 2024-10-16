@@ -1,0 +1,90 @@
+---
+name: Deutsch
+title:
+  archive: Archiv
+  category: Kategorie
+  tag: Schlagwort
+  schedule: Zeitplan
+menu:
+  home: 首页
+  archives: 档案
+  categories: 类目
+  tags: 标签
+  about: 关于
+  search: 搜索
+  schedule: 日程
+  sitemap: 站内导航
+  commonweal: 公益 404
+sidebar:
+  overview: 概述
+  toc: 概述目录
+post:
+  posted: 出版 于
+  edited: 已编辑 于
+  created: 创建 于
+  modified: 修改 于
+  edit: 编辑此帖子
+  in: in
+  read_more: 阅读更多
+  untitled: 未命名
+  sticky: 钉住
+  views: 电话
+  related_posts: 相关文章
+  copyright:
+    author: 文章作者
+    link: 发布链接
+    license_title: 版权声明
+    license_content: "除非另有说明，否则此博客中的所有文章均受 %s 许可."
+footer:
+  powered: "创建于  %s"
+  total_views: 总计浏览
+  total_visitors: 总计访问者
+counter:
+  tag_cloud:
+    zero: Keine Schlagworte
+    one: Insgesamt ein Schlagwort
+    other: "Insgesamt %d Schlagwörter"
+  categories:
+    zero: Keine Kategorien
+    one: Insgesamt eine Kategorie
+    other: "Insgesamt %d Kategorien"
+  archive_posts:
+    zero: 没有可用项目.
+    one: 第一篇文章.
+    other: "总计 %d 篇文章."
+state:
+  posts: 文章
+  tags: 标签
+  categories: 类目
+search:
+  placeholder: 搜索...
+cheers:
+  um: 哇..
+  ok: OK
+  nice: 漂亮
+  good: 很好
+  great: 棒极了
+  excellent: 完美
+keep_on: 敬请期待.
+symbol:
+  comma: ". "
+  period: ", "
+  colon: ": "
+reward:
+  donate: Spenden
+  wechatpay: WeChat Bezahlung
+  alipay: Alipay
+  paypal: PayPal
+  bitcoin: Bitcoin
+follow_me:
+  welcome: Welcome to my other publishing channels
+accessibility:
+  nav_toggle: Navigationsleiste an/ausschalten
+  prev_page: Vorherige Seite
+  next_page: Nächste Seite
+symbols_count_time:
+  count: Symbole im Artikel gezählt
+  count_total: Insgesamt gezählte Symbole
+  time: Lesezeit
+  time_total: Insgesamte Lesezeit
+  time_minutes: minuten.
